@@ -1,2 +1,3 @@
 Text
-Lorem gkjfkgjfkjgritjrijgr
+
+This file was modified in the feature branch
